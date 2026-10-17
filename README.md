@@ -20,21 +20,14 @@ TIMs, vapor chambers, and liquid metals in stability, safety, and isotropic heat
 
 ## 🧩 Repository Structure
 
-````
+
 📁 AI50-W23-Ti07/
-│
-├── 📄 Trimodal_Al50-W23-Ti07_High-Performance_Thermal_Matrix.pdf
-│      → Full technical specification (materials, physics, math, OEM architecture)
-│
-├── 🧪 bionic_ihs_simulation.py
-│      → Multi‑physics simulation (thermal, rheology, CTE, hotspot spreading)
-│
-├── 📜 LICENSE.md
-│      → Open Origin License (OOL‑X1) — restricted to U.S. chip manufacturers + Thermal Grizzly
-│
-└── 📘 README.md
-       → Project documentation (this file)
-````
+
+- 📄 [Trimodal Al50-W23-Ti07 High-Performance Thermal Matrix](Al50-W23-Ti07/Trimodal_Al50-W23-Ti07_High-Performance_Thermal_Matrix.pdf)
+      → Full technical specification (materials, physics, math, OEM architecture)
+
+- 🧪 [bionic ihs simulation](Al50-W23-Ti07/bionic_ihs_simulation.py)
+      → Multi‑physics simulation (thermal, rheology, CTE, hotspot spreading)
 
 ---
 
