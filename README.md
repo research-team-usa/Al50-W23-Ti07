@@ -8,7 +8,7 @@
 
 In conventional thermodynamic design, engineers often focus primarily on **vertical heat transfer** (die → TIM → cooler).  
 However, modern multi‑chiplet processors generate **highly uneven hotspot zones** across the silicon surface. These  
-localized thermal spikes cannot be eliminated by vertical conduction alone — even with high‑performance materials.
+localized thermal spikes cannot be eliminated by vertical conduction alone even with high‑performance materials.
 
 Most TIM systems underestimate this problem because they provide **limited lateral (XY‑plane) heat spreading**.  
 As a result, hotspots form faster than the cooler can remove them.
@@ -19,7 +19,7 @@ The **Bionic Hexagon Honeycomb Core** and the **Cu‑Mesh Composite** introduce 
 - The hexagonal lattice spreads heat in **six directions simultaneously** (120° symmetry).  
 - This creates a **circular, isotropic thermal wave**, preventing hotspot formation at the source.  
 - Localized thermal spikes are redistributed across a much larger area **before** they reach the cooler.  
-- The result is a stable, uniform temperature field — even under extreme chiplet loads.
+- The result is a stable, uniform temperature field even under extreme chiplet loads.
 
 ### ✔ Key Advantage  
 By integrating lateral heat spreading directly into the IHS and TIM architecture, this system **prevents hotspots from  
