@@ -144,4 +144,4 @@ Pirmasens, Rhineland-Palatinate, Germany
 
 ## ⭐ Status  
 This repository represents the **official documentation and simulation suite** of the  
-**Open Origin Architecture — 2026 Edition**.
+**Open Origin Architecture 2026 Edition**.
