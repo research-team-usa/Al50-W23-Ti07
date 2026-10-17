@@ -31,7 +31,7 @@ of the Al50‑W23‑Ti07 Matrix, Cu‑Mesh Composite, and Bionic Hexagon IHS.
 ## 📘 Overview
 This repository contains the **complete technical, mathematical, and simulation framework** for the  
 **Trimodal Al50‑W23‑Ti07 High‑Performance Thermal Matrix**, the **Calendered Cu‑Mesh Composite**,  
-and the **Bionic Double‑Walled Hexagon IHS (W/Al Core)** — a next‑generation thermal architecture  
+and the **Bionic Double‑Walled Hexagon IHS (W/Al Core)** a next‑generation thermal architecture  
 designed by **Emanuel Schaaf (Pirmasens, Rhineland-Palatinate, Germany)**.
 
 This system eliminates hotspots, prevents thermomechanical die failure, and surpasses conventional  
