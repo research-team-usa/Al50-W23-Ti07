@@ -68,6 +68,9 @@ TIMs, vapor chambers, and liquid metals in stability, safety, and isotropic heat
 
 ---
 
+<img width="2752" height="1536" alt="Bionic Double-Walled Integrated Heat Spreader (IHS)" src="https://github.com/user-attachments/assets/2ada4f66-53d6-4718-a2cf-2c96087766df" />
+
+
 ### 🔹 2. Calendered Cu‑Mesh Composite  
 - 35 µm OFHC copper mesh  
 - 150 µm aperture (10:1 sieve‑line rule)  
@@ -77,6 +80,9 @@ TIMs, vapor chambers, and liquid metals in stability, safety, and isotropic heat
 - Eliminates hotspot spikes by +340% spreading area
 
 ---
+
+<img width="2752" height="1536" alt="Double-Walled Bionic Integrated Heat Spreaders (IHS)Q" src="https://github.com/user-attachments/assets/c54516d6-8297-498d-abba-096ed2b0c513" />
+
 
 ### 🔹 3. Bionic Double‑Walled Hexagon IHS  
 - 3D‑printed tungsten or stamped aluminum honeycomb  
