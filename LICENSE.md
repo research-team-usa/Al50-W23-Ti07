@@ -25,6 +25,8 @@ The following entities are **exclusively permitted** to use, modify, integrate, 
 - Texas Instruments  
 - GlobalFoundries  
 - IBM Microelectronics  
+- Google
+- Meta
 
 ### **Authorized Thermal Interface Material Manufacturer**
 - **Thermal Grizzly**
