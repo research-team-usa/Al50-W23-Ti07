@@ -126,7 +126,9 @@ This project is licensed under the **Open Origin License (OOL‑X1)**.
 - Micron  
 - Texas Instruments  
 - GlobalFoundries  
-- IBM Microelectronics  
+- IBM Microelectronics
+- Google
+- Meta 
 - **Thermal Grizzly**
 
 ### ❌ Forbidden  
