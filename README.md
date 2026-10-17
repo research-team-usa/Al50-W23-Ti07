@@ -1,6 +1,6 @@
 # 🔥 Trimodal Al50‑W23‑Ti07 Thermal Matrix  
 ### **Cu‑Mesh Composite + Bionic Double‑Walled Hexagon IHS**  
-#### *Open Origin Architecture — Research Edition 2026*
+#### *Open Origin Architecture Research Edition 2026*
 
 <img width="1767" height="1036" alt="Screenshot 2026-10-17 025528" src="https://github.com/user-attachments/assets/f884c40e-a3e0-4dd3-bd0c-a6d24460ad17" />
 
