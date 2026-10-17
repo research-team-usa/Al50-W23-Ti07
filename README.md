@@ -4,6 +4,27 @@
 
 <img width="1767" height="1036" alt="Screenshot 2026-10-17 025528" src="https://github.com/user-attachments/assets/f884c40e-a3e0-4dd3-bd0c-a6d24460ad17" />
 
+## 🔥 Thermodynamic Insight: Why Lateral Heat Distribution Matters
+
+In conventional thermodynamic design, engineers often focus primarily on **vertical heat transfer** (die → TIM → cooler).  
+However, modern multi‑chiplet processors generate **highly uneven hotspot zones** across the silicon surface. These  
+localized thermal spikes cannot be eliminated by vertical conduction alone — even with high‑performance materials.
+
+Most TIM systems underestimate this problem because they provide **limited lateral (XY‑plane) heat spreading**.  
+As a result, hotspots form faster than the cooler can remove them.
+
+### 🧠 Our Solution: Hexagonal Lateral Heat Distribution  
+The **Bionic Hexagon Honeycomb Core** and the **Cu‑Mesh Composite** introduce a fundamentally different approach:
+
+- The hexagonal lattice spreads heat in **six directions simultaneously** (120° symmetry).  
+- This creates a **circular, isotropic thermal wave**, preventing hotspot formation at the source.  
+- Localized thermal spikes are redistributed across a much larger area **before** they reach the cooler.  
+- The result is a stable, uniform temperature field — even under extreme chiplet loads.
+
+### ✔ Key Advantage  
+By integrating lateral heat spreading directly into the IHS and TIM architecture, this system **prevents hotspots from  
+forming**, rather than merely reacting to them. This is the core thermodynamic principle behind the performance gains  
+of the Al50‑W23‑Ti07 Matrix, Cu‑Mesh Composite, and Bionic Hexagon IHS.
 
 ---
 
