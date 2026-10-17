@@ -1,6 +1,6 @@
 # Open Origin License (OOL‑X1)
 ### Hardware & Software Open‑Development License Trimodal_Al50-W23-Ti07_High-Performance_Thermal_Matrix  
-### Author & Rights Holder: **Emanuel Schaaf, Pirmasens, Rheinland‑Pfalz, Germany**  
+### Author & Rights Holder: **Emanuel Schaaf, Pirmasens, Rhineland-Palatinate, Germany**  
 ### Contact: **serviceblend@gmail.com**
 
 ---
