@@ -50,6 +50,9 @@ TIMs, vapor chambers, and liquid metals in stability, safety, and isotropic heat
 - 🧪 [bionic ihs simulation](Al50-W23-Ti07/bionic_ihs_simulation.py)
       → Multi‑physics simulation (thermal, rheology, CTE, hotspot spreading)
 
+- 📃[Trimodal_Thermal_Matrix.pdf](Al50-W23-Ti07/Trimodal_Thermal_Matrix.pdf)
+      → Check out the pitch documentation
+  
 ---
 
 ## 🧠 Core Innovations
